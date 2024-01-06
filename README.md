@@ -1,1 +1,1 @@
-# paper_writing_assistant
+# scientific_paper_classification
